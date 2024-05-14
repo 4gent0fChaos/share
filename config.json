@@ -1,0 +1,16 @@
+[
+    {
+        "SourceName": "SourceA",
+        "MeanOnTime": 5.2,
+        "MeanOffTime": 3.1,
+        "PeakBitRate": 1200.5,
+        "PacketSize": 1500
+    },
+    {
+        "SourceName": "SourceB",
+        "MeanOnTime": 4.5,
+        "MeanOffTime": 2.5,
+        "PeakBitRate": 1100.0,
+        "PacketSize": 1400
+    }
+]
